@@ -1,0 +1,11 @@
+C:\Users\fezin\Desktop\MEU\C sharp\Projeto 1\bin\Debug\Projeto 1.exe.config
+C:\Users\fezin\Desktop\MEU\C sharp\Projeto 1\bin\Debug\Projeto 1.exe
+C:\Users\fezin\Desktop\MEU\C sharp\Projeto 1\bin\Debug\Projeto 1.pdb
+C:\Users\fezin\Desktop\MEU\C sharp\Projeto 1\obj\Debug\Projeto 1.csproj.AssemblyReference.cache
+C:\Users\fezin\Desktop\MEU\C sharp\Projeto 1\obj\Debug\Projeto 1.csproj.SuggestedBindingRedirects.cache
+C:\Users\fezin\Desktop\MEU\C sharp\Projeto 1\obj\Debug\Projeto_1.Form1.resources
+C:\Users\fezin\Desktop\MEU\C sharp\Projeto 1\obj\Debug\Projeto_1.Properties.Resources.resources
+C:\Users\fezin\Desktop\MEU\C sharp\Projeto 1\obj\Debug\Projeto 1.csproj.GenerateResource.cache
+C:\Users\fezin\Desktop\MEU\C sharp\Projeto 1\obj\Debug\Projeto 1.csproj.CoreCompileInputs.cache
+C:\Users\fezin\Desktop\MEU\C sharp\Projeto 1\obj\Debug\Projeto 1.exe
+C:\Users\fezin\Desktop\MEU\C sharp\Projeto 1\obj\Debug\Projeto 1.pdb
