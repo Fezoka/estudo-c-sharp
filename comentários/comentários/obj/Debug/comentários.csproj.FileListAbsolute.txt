@@ -1,0 +1,8 @@
+C:\Users\fezin\Desktop\MEU\C sharp\comentários\comentários\bin\Debug\comentários.exe.config
+C:\Users\fezin\Desktop\MEU\C sharp\comentários\comentários\bin\Debug\comentários.exe
+C:\Users\fezin\Desktop\MEU\C sharp\comentários\comentários\bin\Debug\comentários.pdb
+C:\Users\fezin\Desktop\MEU\C sharp\comentários\comentários\obj\Debug\comentários.csproj.AssemblyReference.cache
+C:\Users\fezin\Desktop\MEU\C sharp\comentários\comentários\obj\Debug\comentários.csproj.SuggestedBindingRedirects.cache
+C:\Users\fezin\Desktop\MEU\C sharp\comentários\comentários\obj\Debug\comentários.csproj.CoreCompileInputs.cache
+C:\Users\fezin\Desktop\MEU\C sharp\comentários\comentários\obj\Debug\comentários.exe
+C:\Users\fezin\Desktop\MEU\C sharp\comentários\comentários\obj\Debug\comentários.pdb

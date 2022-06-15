@@ -1,0 +1,8 @@
+C:\Users\fezin\Desktop\MEU\C sharp\condicao\condicao\obj\Debug\condicao.csproj.AssemblyReference.cache
+C:\Users\fezin\Desktop\MEU\C sharp\condicao\condicao\obj\Debug\condicao.csproj.SuggestedBindingRedirects.cache
+C:\Users\fezin\Desktop\MEU\C sharp\condicao\condicao\obj\Debug\condicao.csproj.CoreCompileInputs.cache
+C:\Users\fezin\Desktop\MEU\C sharp\condicao\condicao\bin\Debug\condicao.exe.config
+C:\Users\fezin\Desktop\MEU\C sharp\condicao\condicao\bin\Debug\condicao.exe
+C:\Users\fezin\Desktop\MEU\C sharp\condicao\condicao\bin\Debug\condicao.pdb
+C:\Users\fezin\Desktop\MEU\C sharp\condicao\condicao\obj\Debug\condicao.exe
+C:\Users\fezin\Desktop\MEU\C sharp\condicao\condicao\obj\Debug\condicao.pdb

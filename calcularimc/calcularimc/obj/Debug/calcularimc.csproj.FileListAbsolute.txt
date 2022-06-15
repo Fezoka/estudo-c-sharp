@@ -1,0 +1,8 @@
+C:\Users\fezin\Desktop\MEU\C sharp\calcularimc\calcularimc\bin\Debug\calcularimc.exe.config
+C:\Users\fezin\Desktop\MEU\C sharp\calcularimc\calcularimc\bin\Debug\calcularimc.exe
+C:\Users\fezin\Desktop\MEU\C sharp\calcularimc\calcularimc\bin\Debug\calcularimc.pdb
+C:\Users\fezin\Desktop\MEU\C sharp\calcularimc\calcularimc\obj\Debug\calcularimc.csproj.AssemblyReference.cache
+C:\Users\fezin\Desktop\MEU\C sharp\calcularimc\calcularimc\obj\Debug\calcularimc.csproj.SuggestedBindingRedirects.cache
+C:\Users\fezin\Desktop\MEU\C sharp\calcularimc\calcularimc\obj\Debug\calcularimc.csproj.CoreCompileInputs.cache
+C:\Users\fezin\Desktop\MEU\C sharp\calcularimc\calcularimc\obj\Debug\calcularimc.exe
+C:\Users\fezin\Desktop\MEU\C sharp\calcularimc\calcularimc\obj\Debug\calcularimc.pdb

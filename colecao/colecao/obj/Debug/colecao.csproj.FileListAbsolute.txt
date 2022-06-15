@@ -1,0 +1,8 @@
+C:\Users\fezin\Desktop\MEU\C sharp\colecao\colecao\bin\Debug\colecao.exe.config
+C:\Users\fezin\Desktop\MEU\C sharp\colecao\colecao\bin\Debug\colecao.exe
+C:\Users\fezin\Desktop\MEU\C sharp\colecao\colecao\bin\Debug\colecao.pdb
+C:\Users\fezin\Desktop\MEU\C sharp\colecao\colecao\obj\Debug\colecao.csproj.AssemblyReference.cache
+C:\Users\fezin\Desktop\MEU\C sharp\colecao\colecao\obj\Debug\colecao.csproj.SuggestedBindingRedirects.cache
+C:\Users\fezin\Desktop\MEU\C sharp\colecao\colecao\obj\Debug\colecao.csproj.CoreCompileInputs.cache
+C:\Users\fezin\Desktop\MEU\C sharp\colecao\colecao\obj\Debug\colecao.exe
+C:\Users\fezin\Desktop\MEU\C sharp\colecao\colecao\obj\Debug\colecao.pdb
