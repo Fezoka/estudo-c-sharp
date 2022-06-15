@@ -1,0 +1,8 @@
+C:\Users\fezin\Desktop\MEU\C sharp\POO\TermoThis\bin\Debug\TermoThis.exe.config
+C:\Users\fezin\Desktop\MEU\C sharp\POO\TermoThis\bin\Debug\TermoThis.exe
+C:\Users\fezin\Desktop\MEU\C sharp\POO\TermoThis\bin\Debug\TermoThis.pdb
+C:\Users\fezin\Desktop\MEU\C sharp\POO\TermoThis\obj\Debug\TermoThis.csproj.AssemblyReference.cache
+C:\Users\fezin\Desktop\MEU\C sharp\POO\TermoThis\obj\Debug\TermoThis.csproj.SuggestedBindingRedirects.cache
+C:\Users\fezin\Desktop\MEU\C sharp\POO\TermoThis\obj\Debug\TermoThis.csproj.CoreCompileInputs.cache
+C:\Users\fezin\Desktop\MEU\C sharp\POO\TermoThis\obj\Debug\TermoThis.exe
+C:\Users\fezin\Desktop\MEU\C sharp\POO\TermoThis\obj\Debug\TermoThis.pdb
