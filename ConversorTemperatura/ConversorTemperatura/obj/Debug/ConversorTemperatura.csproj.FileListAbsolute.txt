@@ -1,0 +1,8 @@
+C:\Users\fezin\Desktop\MEU\C sharp\ConversorTemperatura\ConversorTemperatura\bin\Debug\ConversorTemperatura.exe.config
+C:\Users\fezin\Desktop\MEU\C sharp\ConversorTemperatura\ConversorTemperatura\bin\Debug\ConversorTemperatura.exe
+C:\Users\fezin\Desktop\MEU\C sharp\ConversorTemperatura\ConversorTemperatura\bin\Debug\ConversorTemperatura.pdb
+C:\Users\fezin\Desktop\MEU\C sharp\ConversorTemperatura\ConversorTemperatura\obj\Debug\ConversorTemperatura.csproj.AssemblyReference.cache
+C:\Users\fezin\Desktop\MEU\C sharp\ConversorTemperatura\ConversorTemperatura\obj\Debug\ConversorTemperatura.csproj.SuggestedBindingRedirects.cache
+C:\Users\fezin\Desktop\MEU\C sharp\ConversorTemperatura\ConversorTemperatura\obj\Debug\ConversorTemperatura.csproj.CoreCompileInputs.cache
+C:\Users\fezin\Desktop\MEU\C sharp\ConversorTemperatura\ConversorTemperatura\obj\Debug\ConversorTemperatura.exe
+C:\Users\fezin\Desktop\MEU\C sharp\ConversorTemperatura\ConversorTemperatura\obj\Debug\ConversorTemperatura.pdb

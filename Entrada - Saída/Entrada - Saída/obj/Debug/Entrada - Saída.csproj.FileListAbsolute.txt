@@ -1,0 +1,8 @@
+C:\Users\fezin\Desktop\MEU\C sharp\Entrada - Saída\Entrada - Saída\bin\Debug\Entrada - Saída.exe.config
+C:\Users\fezin\Desktop\MEU\C sharp\Entrada - Saída\Entrada - Saída\bin\Debug\Entrada - Saída.exe
+C:\Users\fezin\Desktop\MEU\C sharp\Entrada - Saída\Entrada - Saída\bin\Debug\Entrada - Saída.pdb
+C:\Users\fezin\Desktop\MEU\C sharp\Entrada - Saída\Entrada - Saída\obj\Debug\Entrada - Saída.csproj.AssemblyReference.cache
+C:\Users\fezin\Desktop\MEU\C sharp\Entrada - Saída\Entrada - Saída\obj\Debug\Entrada - Saída.csproj.SuggestedBindingRedirects.cache
+C:\Users\fezin\Desktop\MEU\C sharp\Entrada - Saída\Entrada - Saída\obj\Debug\Entrada - Saída.csproj.CoreCompileInputs.cache
+C:\Users\fezin\Desktop\MEU\C sharp\Entrada - Saída\Entrada - Saída\obj\Debug\Entrada - Saída.exe
+C:\Users\fezin\Desktop\MEU\C sharp\Entrada - Saída\Entrada - Saída\obj\Debug\Entrada - Saída.pdb

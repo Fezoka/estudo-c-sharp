@@ -1,0 +1,8 @@
+C:\Users\fezin\Desktop\MEU\C sharp\inverter nomes\inverter nomes\bin\Debug\inverter nomes.exe.config
+C:\Users\fezin\Desktop\MEU\C sharp\inverter nomes\inverter nomes\bin\Debug\inverter nomes.exe
+C:\Users\fezin\Desktop\MEU\C sharp\inverter nomes\inverter nomes\bin\Debug\inverter nomes.pdb
+C:\Users\fezin\Desktop\MEU\C sharp\inverter nomes\inverter nomes\obj\Debug\inverter nomes.csproj.AssemblyReference.cache
+C:\Users\fezin\Desktop\MEU\C sharp\inverter nomes\inverter nomes\obj\Debug\inverter nomes.csproj.SuggestedBindingRedirects.cache
+C:\Users\fezin\Desktop\MEU\C sharp\inverter nomes\inverter nomes\obj\Debug\inverter nomes.csproj.CoreCompileInputs.cache
+C:\Users\fezin\Desktop\MEU\C sharp\inverter nomes\inverter nomes\obj\Debug\inverter nomes.exe
+C:\Users\fezin\Desktop\MEU\C sharp\inverter nomes\inverter nomes\obj\Debug\inverter nomes.pdb
