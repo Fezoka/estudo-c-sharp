@@ -1,0 +1,8 @@
+C:\Users\fezin\Desktop\MEU\C sharp\POO\TipoDelegate\bin\Debug\TipoDelegate.exe.config
+C:\Users\fezin\Desktop\MEU\C sharp\POO\TipoDelegate\bin\Debug\TipoDelegate.exe
+C:\Users\fezin\Desktop\MEU\C sharp\POO\TipoDelegate\bin\Debug\TipoDelegate.pdb
+C:\Users\fezin\Desktop\MEU\C sharp\POO\TipoDelegate\obj\Debug\TipoDelegate.csproj.AssemblyReference.cache
+C:\Users\fezin\Desktop\MEU\C sharp\POO\TipoDelegate\obj\Debug\TipoDelegate.csproj.SuggestedBindingRedirects.cache
+C:\Users\fezin\Desktop\MEU\C sharp\POO\TipoDelegate\obj\Debug\TipoDelegate.csproj.CoreCompileInputs.cache
+C:\Users\fezin\Desktop\MEU\C sharp\POO\TipoDelegate\obj\Debug\TipoDelegate.exe
+C:\Users\fezin\Desktop\MEU\C sharp\POO\TipoDelegate\obj\Debug\TipoDelegate.pdb

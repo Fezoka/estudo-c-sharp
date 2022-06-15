@@ -1,0 +1,8 @@
+C:\Users\fezin\Desktop\MEU\C sharp\POO\Estatico\bin\Debug\Estatico.exe.config
+C:\Users\fezin\Desktop\MEU\C sharp\POO\Estatico\bin\Debug\Estatico.exe
+C:\Users\fezin\Desktop\MEU\C sharp\POO\Estatico\bin\Debug\Estatico.pdb
+C:\Users\fezin\Desktop\MEU\C sharp\POO\Estatico\obj\Debug\Estatico.csproj.AssemblyReference.cache
+C:\Users\fezin\Desktop\MEU\C sharp\POO\Estatico\obj\Debug\Estatico.csproj.SuggestedBindingRedirects.cache
+C:\Users\fezin\Desktop\MEU\C sharp\POO\Estatico\obj\Debug\Estatico.csproj.CoreCompileInputs.cache
+C:\Users\fezin\Desktop\MEU\C sharp\POO\Estatico\obj\Debug\Estatico.exe
+C:\Users\fezin\Desktop\MEU\C sharp\POO\Estatico\obj\Debug\Estatico.pdb
